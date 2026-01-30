@@ -1,0 +1,2 @@
+.gitattributes phải có file này mới chạy được
+Phải luôn có version cao hơn nữa
